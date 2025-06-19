@@ -1,4 +1,4 @@
-# 🚀 Ahmad Fauzan's Portfolio Website
+# 🚀 Ahmad Fauzan Portfolio Website
 
 Selamat datang di repository website portfolio pribadi saya! 🎉 Proyek ini merupakan hasil dari kreativitas, teknologi, dan dedikasi saya untuk menampilkan keahlian, proyek-proyek, dan kepribadian dalam bentuk yang visual dan interaktif.
 
